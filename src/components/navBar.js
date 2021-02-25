@@ -56,8 +56,8 @@ export default function TemporaryDrawer() {
    
     </Grid>
     <Grid style={{marginTop:"5%"}} item xs={2} sm={5}>
-        <div style={{fontSize: "120%"}}> Juan Ortiz </div>
-        <div  style={{fontSize: "70%"}}>juan.ortiz@mail.escuelaing.edu.co</div>
+        <div style={{fontSize: "120%"}}> Juan Sebastian Diaz </div>
+        <div  style={{fontSize: "70%"}}>juan.diaz-sa@mail.escuelaing.edu.co</div>
        
         
     </Grid>

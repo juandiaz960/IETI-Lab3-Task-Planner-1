@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Link heroku
 
-https://stormy-caverns-05381.herokuapp.com/
+https://stormy-caverns-05381.herokuapp.com/login
 
 ## Available Scripts
 
